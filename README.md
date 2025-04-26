@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/18daa82b-b46b-431b-952a-f84dbf7815c3" alt="Screenshot_6">
+  <img src="https://github.com/user-attachments/assets/18daa82b-b46b-431b-952a-f84dbf7815c3" alt="Screenshot_6">
 </div>
 
 
