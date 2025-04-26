@@ -23,7 +23,10 @@
   <img src="https://github.com/user-attachments/assets/cc3f92c0-8fc9-4b89-a43b-1bd9b00e67aa" alt="Screenshot_5">
 </div>
 
-![Screenshot_6](https://github.com/user-attachments/assets/18daa82b-b46b-431b-952a-f84dbf7815c3)
+<div align="center">
+  <img src="(https://github.com/user-attachments/assets/18daa82b-b46b-431b-952a-f84dbf7815c3" alt="Screenshot_6">
+</div>
+
 
 
 ### Требования: функциональные и нефункциональные
